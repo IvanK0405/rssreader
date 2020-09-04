@@ -1,1 +1,1 @@
-Hello World
+import ./style/style.css

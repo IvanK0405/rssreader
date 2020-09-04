@@ -1,4 +1,6 @@
-rssproj
+Описание: RSS-ридер с автоматическим обновлением.
+Description: RSS reader with automatic updates.
+
 
 [![Build Status](https://travis-ci.org/IvanK0405/rssreader.svg?branch=master)](https://travis-ci.org/IvanK0405/rssreader)
 
