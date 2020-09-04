@@ -1,1 +1,4 @@
-import ./style/style.css
+import 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+console.log("kek");
