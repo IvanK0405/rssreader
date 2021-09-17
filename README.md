@@ -1,3 +1,5 @@
+# Education 🎓
+
 Описание: RSS-ридер с автоматическим обновлением.
 Description: RSS reader with automatic updates.
 
